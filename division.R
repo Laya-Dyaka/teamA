@@ -1,4 +1,4 @@
 division <- function(x, y)
 {
- print(x/y)
+ cat(x/y)
 }
